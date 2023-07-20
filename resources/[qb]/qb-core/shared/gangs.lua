@@ -1,119 +1,119 @@
 QBShared = QBShared or {}
 QBShared.Gangs = {
-	['none'] = {
-		label = 'No Gang',
-		grades = {
+    ['none'] = {
+        label = 'Sem Gangue',
+        grades = {
             ['0'] = {
-                name = 'Unaffiliated'
+                name = 'Não Afiliado'
             },
         },
-	},
-	['lostmc'] = {
-		label = 'The Lost MC',
-		grades = {
+    },
+    ['lostmc'] = {
+        label = 'The Lost MC',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	},
-	['ballas'] = {
-		label = 'Ballas',
-		grades = {
+    },
+    ['ballas'] = {
+        label = 'Ballas',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	},
-	['vagos'] = {
-		label = 'Vagos',
-		grades = {
+    },
+    ['vagos'] = {
+        label = 'Vagos',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	},
-	['cartel'] = {
-		label = 'Cartel',
-		grades = {
+    },
+    ['cartel'] = {
+        label = 'Cartel',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	},
-	['families'] = {
-		label = 'Families',
-		grades = {
+    },
+    ['families'] = {
+        label = 'Famílias',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	},
-	['triads'] = {
-		label = 'Triads',
-		grades = {
+    },
+    ['triads'] = {
+        label = 'Tríades',
+        grades = {
             ['0'] = {
-                name = 'Recruit'
+                name = 'Recruta'
             },
-			['1'] = {
-                name = 'Enforcer'
+            ['1'] = {
+                name = 'Executor'
             },
-			['2'] = {
-                name = 'Shot Caller'
+            ['2'] = {
+                name = 'Tomador de Decisões'
             },
-			['3'] = {
-                name = 'Boss',
-				isboss = true
+            ['3'] = {
+                name = 'Chefe',
+                isboss = true
             },
         },
-	}
+    }
 }
